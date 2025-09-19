@@ -48,7 +48,7 @@
           <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             <div class="rounded-2xl border border-neutral-100 bg-white p-4 shadow-sm card-tilt dark:border-neutral-800 dark:bg-neutral-900">
               <h4 class="text-sm font-semibold text-neutral-900 dark:text-white">Core & Backend</h4>
-              <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Laravel, Lumen, Express.js, Node, API design, authentication, background jobs.</p>
+              <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Go, Laravel, Lumen, Express.js, Node, API design, authentication, background jobs.</p>
               <div class="mt-3 h-2 w-full rounded-full bg-neutral-100 dark:bg-neutral-800">
                 <div class="h-2 rounded-full bg-emerald-500" style="width:85%"></div>
               </div>
