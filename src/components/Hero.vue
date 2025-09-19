@@ -29,7 +29,7 @@
             <ul class="flex flex-wrap items-center gap-2">
               <li class="rounded-full border border-neutral-300 bg-neutral-50 px-3 py-1 dark:border-neutral-700 dark:bg-neutral-800">Laravel</li>
               <li class="rounded-full border border-neutral-300 bg-neutral-50 px-3 py-1 dark:border-neutral-700 dark:bg-neutral-800">React.js</li>
-              <li class="rounded-full border border-neutral-300 bg-neutral-50 px-3 py-1 dark:border-neutral-700 dark:bg-neutral-800">Vue.js</li>
+              <li class="rounded-full border border-neutral-300 bg-neutral-50 px-3 py-1 dark:border-neutral-700 dark:bg-neutral-800">Go</li>
               <li class="rounded-full border border-neutral-300 bg-neutral-50 px-3 py-1 dark:border-neutral-700 dark:bg-neutral-800">Express.js</li>
               <li class="rounded-full border border-neutral-300 bg-neutral-50 px-3 py-1 dark:border-neutral-700 dark:bg-neutral-800">etc</li>
             </ul>
